@@ -3,3 +3,4 @@
 - 使用语言：Swift4.0
 - logo设计：Adobe IIIustrator cc 2017
 - API接口：喜马拉雅-段子来啦
+- Video Link: https://www.bilibili.com/video/BV1CJ411m7N1
