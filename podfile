@@ -1,0 +1,8 @@
+
+target 'iFM' do
+pod 'Alamofire'
+pod 'SwiftyJSON'
+pod 'SnapKit'
+pod 'IQKeyboardManagerSwift'
+
+end

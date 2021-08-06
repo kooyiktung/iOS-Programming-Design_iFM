@@ -1,0 +1,6 @@
+module Pods_iFM {
+  umbrella header "Pods-iFM-umbrella.h"
+
+  export *
+  module * { export * }
+}
